@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+C:\Users\HP\Desktop\Images
 Use the left arrow to go back!
